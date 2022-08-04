@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pablo1996abc
-- 👀 I’m interested in get a job in some europe country, or at north america
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on React JS apps
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me email pablooliveira1996@hotmail.com
 
 <!---
